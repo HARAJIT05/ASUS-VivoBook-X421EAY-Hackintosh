@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor & backup files
+*.bak
+*.bak*
+*.backup
+*.backup*
+*.swp
+*~
+*.orig
+WhateverXe.backup
+
+# OpenCore debug logs
+opencore-*.txt
+SysReport/
